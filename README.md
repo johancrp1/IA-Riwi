@@ -2,17 +2,17 @@
 # Desafío IA: Transformando un Proceso Tradicional
 
 ## 1. Introducción
-En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso [nombre del proceso o servicio], muy común en [contexto/industria].
+En este documento, se expone cómo un proceso tradicional puede mejorarse mediante la incorporación de la inteligencia artificial. Se eligió como caso de uso [Arma tu pc gamer a tu gusto], muy común en [industria].
 
 ## 2. Descripción del Proceso Tradicional
 **Situación actual:**  
-- [Descripción breve del proceso actual, por ejemplo: "La atención al cliente en nuestra empresa se realiza mediante respuestas manuales en un call center."]
+- [Al buscar tipos de complementos toca buscar 1 por 1 para poder completar mi pc]
 
 **Problemas o limitaciones del método tradicional:**  
-- Lenta respuesta a los clientes.  
-- Alto costo operativo.  
-- Dificultad para manejar picos de demanda.  
-- Respuestas inconsistentes o estandarizadas.
+- Buscar componentes .  
+- No saber que componentes comprar.  
+- Dificultad de compatibilidad.  
+- .
 
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  

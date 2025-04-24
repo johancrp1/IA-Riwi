@@ -6,30 +6,31 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 ## 2. Descripción del Proceso Tradicional
 **Situación actual:**  
-- [Al buscar tipos de complementos toca buscar 1 por 1 para poder completar mi pc]
+- [Al buscar tipos de componentes para armar una pc gamer toca buscar 1 por 1 para poder completar mi pc]
 
-**Problemas o limitaciones del método tradicional:**  
-- Buscar componentes .  
-- No saber que componentes comprar.  
+**Problemas o limitaciones del método tradicional:**
+- Tener que buscar boards y aparte sus componentes para ensamblar una pc gamer.  
+- No saber que componentes comprar para una board.  
 - Dificultad de compatibilidad.  
-- .
+- No saber cual es el mejor actualmente.
 
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  
-- Automatizar y personalizar el proceso mediante un sistema basado en IA.
+- Recolectar datos de todos los componentes para saber cuales son compatibles con las diferentes boars que hay mediante un sistema basado en IA.
 
 **Descripción de la solución IA:**  
 - **Tecnología empleada:** Modelo de procesamiento de lenguaje natural (NLP).  
-- **Integración en el flujo:**
-  - El sistema recibe la entrada del usuario.
-  - La IA interpreta la intención y genera una respuesta o acción automática.
+- **Integración en el flujo:** Todos los software de busqueda
+  - la iA lmacena los datos de todos los componentes y boards
+  - La IA interpreta la intención y genera los resultados posibles de emsamble.
   - Intervención humana solo en casos complejos.
+  - saber cuales son los mejores actuales
 
 **Beneficios esperados:**  
 - Mayor velocidad de respuesta.  
-- Mejora en la personalización.  
-- Capacidad de aprendizaje continuo.  
-- Reducción de costos operativos.
+- Mejora en la busqueda.  
+- saber que componentes son compatibles con las diferentes boards
+- saber cuales son los mejores actuales
 
 ## 4. Comparativa entre Procesos
 
